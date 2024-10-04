@@ -24,8 +24,8 @@
         3. Enable **Developer mode**.
         4. Click on **Load unpacked**, then select the **VIOLENT MOD** folder to complete the installation.
 
-3. **Install the "NOT PIXEL SCRIPT v1.0" Auto Script**:
-    - **Download the Auto Script**: [AUTO NOT PIXEL SCRIPT v1.0](https://www.dropbox.com/scl/fi/abpr0ulyby5acfhu6rrlk/notpixelv12.js?rlkey=yfkotvy2x2yravgl5vo8k00g2&st=sfqy5dlk&dl=1&filename=notpixelv12.user.js)
+3. **Install the "NOT PIXEL SCRIPT v1.2" Auto Script**:
+    - **Download the Auto Script**: [AUTO NOT PIXEL SCRIPT v1.2](https://www.dropbox.com/scl/fi/abpr0ulyby5acfhu6rrlk/notpixelv12.js?rlkey=yfkotvy2x2yravgl5vo8k00g2&st=sfqy5dlk&dl=1&filename=notpixelv12.user.js)
     - **Installation Instructions**:
         1. Open the link in your browser, and the **Installing Script** window will appear.
         2. Click the **Install** button.
