@@ -2,7 +2,13 @@
 
 **NotPixel** is supported by Pavel Duvov and the **NOTCOIN** and **DOGS** teams, ensuring reliability and quality.
 
-## 🔄 NOTPIXEL Script v1.0 Update
+# 🔄 v1.2 Update
+- Adapted to the updated game interface.
+- Attempts to draw at the center to earn x3 points.
+- Bot attempts to reload the game when encountering a black screen issue.
+
+
+## 🔄 v1.0 Update
 - ✅ Auto coloring.
 - ✅ Auto claim rewards.
 
