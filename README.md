@@ -1,4 +1,4 @@
-# 🕔🪂 Airdrop Hunt Coloring NotPixel - Official Notcoin Team [Auto Script Free]
+# 🪂 Airdrop NotPixel - Official Notcoin Team [Script Free]
 
 **NotPixel** is supported by Pavel Duvov and the **NOTCOIN** and **DOGS** teams, ensuring reliability and quality.
 
