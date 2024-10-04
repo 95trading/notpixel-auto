@@ -8,7 +8,7 @@
 - Bot attempts to reload the game when encountering a black screen issue.
 
 
-## 🔄 v1.0 Update
+# 🔄 v1.0 Update
 - ✅ Auto coloring.
 - ✅ Auto claim rewards.
 
