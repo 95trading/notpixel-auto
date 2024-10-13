@@ -5,7 +5,7 @@
 # 🔄 v2.0 Update:
 - ✅ Updated to match the new game interface.
 - ✅ Automatically starts the NotPixel game, closes it, and reopens it after 5 minutes.
-- ⇢ Visit this link: [https://web.telegram.org/k/#@notpixel](https://web.telegram.org/k/#@notpixel) and the script will automatically open the game.
+⇢ Visit this link: [https://web.telegram.org/k/#@notpixel](https://web.telegram.org/k/#@notpixel) and the script will automatically open the game.
 
 # 🔄 v1.2 Update
 - Adapted to the updated game interface.
