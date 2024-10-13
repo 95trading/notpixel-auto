@@ -2,6 +2,10 @@
 
 **NotPixel** is supported by Pavel Duvov and the **NOTCOIN** and **DOGS** teams, ensuring reliability and quality.
 
+# 🔄 v2.0 Update:
+- ✅ Updated to match the new game interface.
+- ✅ Automatically starts the NotPixel game, closes it, and reopens it after 5 minutes.
+
 # 🔄 v1.2 Update
 - Adapted to the updated game interface.
 - Attempts to draw at the center to earn x3 points.
